@@ -3,7 +3,7 @@ Metamorphic engine in python and tools for it evaluation with virustotal.com
 
   #>python ultra-pymetamorph <Fichero a ofuscar>
 
-    Para ejecutar el motor metamórfico necesitamos tener instaladas las librerias Keystone y capstone.
+    Para ejecutar el motor metamórfico necesitamos tener instaladas las librerias pefile, keystone y capstone.
 
 # Herramientas para la evaluacion de las muestras
   Toda la información generada se almacena en una base de datos sqllite (vt_sqlite.db)
