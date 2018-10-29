@@ -15,7 +15,7 @@ pyparsing==2.0.3
 python-dateutil==2.4.2
 pytz==2014.10
 r2pipe==0.9.9
-requests==2.19.1
+requests==2.20.0
 simplejson==3.15.0
 six==1.10.0
 unity-lens-photos==1.0
