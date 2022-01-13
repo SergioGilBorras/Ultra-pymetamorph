@@ -10,7 +10,7 @@ matplotlib==1.5.1
 metame==0.1
 numpy==1.11.0
 pefile==2017.11.5
-Pillow==6.2.0
+Pillow==9.0.0
 pyparsing==2.0.3
 python-dateutil==2.4.2
 pytz==2014.10
